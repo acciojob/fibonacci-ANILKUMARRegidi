@@ -10,7 +10,5 @@
   
     return prev; // Return the Fibonacci number at num - 1 index
   }
-  const result = fibonacci(num);
-  console.log(result);
   module.exports = fibonacci;
   
